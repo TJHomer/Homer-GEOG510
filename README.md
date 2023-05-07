@@ -11,12 +11,6 @@
 
 ## Projects
 
-* [spacefinder](https://pypi.org/project/spacefinder/) *Coming Soon!* What celestial beings can you see tonight?
-```python
-> spacefinder.planets(Knoxville)
-
-{Saturn: [East, 20:44]}
-```
 
 * [Making Faux Stained Glass with a laser cutter](https://www.linkedin.com/pulse/faux-stained-glass-using-laser-cutter-tracy-homer/?trk=public_profile-settings_article_view)
 
